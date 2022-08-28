@@ -1,6 +1,6 @@
 ![MasterHead](https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)
 
-<h1 align="center">Hi 👋, I'm KIRAN SALA</h1>
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Kiran Sala</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiransala&label=Profile%20views&color=0e75b6&style=flat" alt="kiransala" /> </p>
