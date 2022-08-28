@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kiransalla007@gamil.com**
 
-- ⚡ Fun fact **I’d most like to be remembered for Being helpful.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kiransalla007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiransalla007" height="30" width="40" /></a>
