@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiransala&label=Profile%20views&color=0e75b6&style=flat" alt="kiransala" /> </p>
 
-* 🌍  I'm based in Mumbai, India.
+
 * ✉️  You can contact me at [kiransalla007@gmail.com](mailto:kiransalla007@gmail.com)
 * 🧠  I'm learning Full stack web development.
 
