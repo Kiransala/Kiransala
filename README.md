@@ -6,7 +6,7 @@
 <a href="https://www.github.com/Kiransala" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=kiransala&label=Profile%20views&style=for-the-badge&color=22c55e&labelColor=000000" alt="kiransala" /> </p></a>
 
 ### 👨🏻‍💻&nbsp;About Me
-* 🚀  I'm Currently Working On Web application framework Software.
+* 🚀  I'm Currently Working On a JavaScript-based UI development library <b>[React]</b>.
 * 🧠  I'm learning Full stack web development.
 * 🤝  I'm open to collaborating on Front End Project.
 * ⚡  I like to explore new technologies and develop software solutions and quick hacks.
