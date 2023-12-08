@@ -15,13 +15,15 @@
 <br/>
 
 <div align="center">
- 
-🧠 Exploring the world of **machine learning**.
 
-🌱 Learning the basics of **ML concepts and Python coding for ML**.
+ **Turning ideas into reality, byte by byte.** ️
 
-🎉 Fun fact **In machine learning, we're basically teaching computers to predict the future — without crystal balls! 🔮🤖**
- </div>
+ **Exploring the potential of various technologies to solve real-world challenges.** 
+
+ **Always seeking new knowledge and pushing the boundaries of innovation.** 🪐
+
+</div>
+
  
 <div align="center"> 
   <a href="mailto:kiransalla007@gmail.com" target="_blank">
