@@ -10,17 +10,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kiran+Sala!;" />
 </h1>
 
-<h3 align="center">A Passionate Developer and Lifelong Learner</h3>
+<h3 align="center">Full Stack Developer helping businesses build efficient digital solutions.</h3>
 
 <br/>
 
 <div align="center">
 
- **Turning ideas into reality, byte by byte.** ️
+ **Creating intuitive, functional web solutions.** ️
 
- **Exploring the potential of various technologies to solve real-world challenges.** 
+ **Using AI and modern technologies to solve real-world problems.** ️
 
- **Always seeking new knowledge and pushing the boundaries of innovation.** 🪐
+ **Building AI-driven solutions that drive growth and deliver results.** 
 
 </div>
 
@@ -42,8 +42,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mongodb,java,c,github,javascript,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,flask,html,css,vscode,figma,git" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,next,react,angular,nodejs,express" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,gcp,firebase,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,flask,tensorflow,pytorch," />
 </div>
 
 <br/>
